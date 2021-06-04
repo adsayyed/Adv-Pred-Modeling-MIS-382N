@@ -1,5 +1,7 @@
 # Project Summary
 
+[Medium Article Here](https://medium.com/swlh/getting-sentimental-34f69910312c)
+
 Utilizing Twitter API to extract twitter data, then analyzing tweet sentiments through the power of NLP.
 
 Teammates:
